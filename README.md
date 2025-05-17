@@ -56,7 +56,7 @@ Clone the repository:
 git clone https://github.com/EmirDuha/MINESWEEPERGAME.git
 
 Open the project:
-navigate the FORMSDENEME2 folder to find the .exe
+navigate the FORMSDENEME2 folder to find the FORMSDENEME2.exe
 
 Run the game!
 
