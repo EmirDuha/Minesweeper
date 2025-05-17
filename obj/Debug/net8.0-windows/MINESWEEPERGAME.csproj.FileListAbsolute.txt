@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.MainMenu.resources
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Form2.resources
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\MINESWEEPERGAME.Form3.resources
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\MINESWEEPERGAME.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\MINESWEEPERGAME.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\MINESWEEPERGAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\MINESWEEPERGAME.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\MINESWEEPERGAME.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\MINESWEEPERGAME.csproj.CoreCompileInputs.cache

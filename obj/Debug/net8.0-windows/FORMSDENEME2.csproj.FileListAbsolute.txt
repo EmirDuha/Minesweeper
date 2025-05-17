@@ -1,0 +1,79 @@
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.MainMenu.resources
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Game.resources
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.exe
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.deps.json
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.runtimeconfig.json
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.dll
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.pdb
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Properties.Resources.resources
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.dll
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\refint\FORMSDENEME2.dll
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.pdb
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.genruntimeconfig.cache
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\ref\FORMSDENEME2.dll
+C:\Users\Asus\source\repos\FORMSDENEME2\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Scoreboard.resources
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.exe
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.deps.json
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.runtimeconfig.json
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.pdb
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.MainMenu.resources
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\refint\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.pdb
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\ref\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Form2.resources
+C:\Users\Asus\Desktop\PROJE YEDEK\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Form3.resources
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.exe
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.MainMenu.resources
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Form2.resources
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Form3.resources
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Properties.Resources.resources
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\refint\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.pdb
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.deps.json
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.runtimeconfig.json
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.pdb
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\ref\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.exe
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.deps.json
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.runtimeconfig.json
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.pdb
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.MainMenu.resources
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Form2.resources
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Form3.resources
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Properties.Resources.resources
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.sourcelink.json
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\refint\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.pdb
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\ref\FORMSDENEME2.dll
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\bin\Debug\net8.0-windows\FORMSDENEME2.dll.config
+C:\Users\Asus\Desktop\Proje1\MINESWEEPERGAME\FORMSDENEME2\obj\Debug\net8.0-windows\FORMSDENEME2.Resource1.resources
